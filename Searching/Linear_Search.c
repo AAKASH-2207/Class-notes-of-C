@@ -1,4 +1,5 @@
 /******************************************************************************
+This code is Linear/Sequential Search Algorith in C
 This code is created by Aakash Sharma
 For and as class notes of programs
 Date: 12 May 2024
